@@ -5,4 +5,5 @@
     <string name="status_true">true</string>
     <string name="status_false">false</string>
     <string name="app_name_test">Todo</string>
+    <string name="app_name_test1">Todo</string>
 </resources>
